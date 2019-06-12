@@ -200,7 +200,7 @@ pre,code,tt{font:13px 'andale mono','lucida console',monospace;line-height:18px}
 .menu-secondary a.sf-with-ul{padding-right:26px;min-width:1px;}
 .menu-secondary  .sf-sub-indicator{position:absolute;display:block;overflow:hidden;right:0;top:0;padding:13px 13px 0 0;}
 .menu-secondary li li .sf-sub-indicator{padding:9px 13px 0 0;}
-.wrap-menu-secondary .sf-shadow ul{background:url('https://cdn.jsdelivr.net/gh/seeac/wacx@master/menu-secondary-shadow.png') no-repeat bottom right;}
+.wrap-menu-secondary .sf-shadow ul{background:url('https://cdn.jsdelivr.net/gh/seeac/wacx@master/bg_container.png') no-repeat bottom right;}
 .flex-direction-nav a,.flex-direction-nav a:before{color:#fff;text-shadow:0 1px 0 #000;}
 .flex-container a:hover,.flex-slider a:hover{outline:0;}
 .flex-control-nav,.flex-direction-nav,.slides,.slides>li{margin:0;padding:0;list-style:none;}
