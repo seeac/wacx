@@ -22,7 +22,7 @@ body#layout .social-profiles-widget h3{display:none;}
 ====================
 */
 /* Use this with templates/template-twocol.html */
-body{background:#fff;color:#555555;font-family:Arimo,Arial,Helvetica,Sans-serif;font-size:14px;line-height:1.4;margin:0;padding:0;-webkit-box-shadow:inset 0 146px 0 0 #1b1b1b,inset 0 186px 0 0 #02BB9F;-moz-box-shadow:inset 0 146px 0 0 #1b1b1b,inset 0 186px 0 0 #02BB9F;box-shadow:inset 0 146px 0 0 url:(https://cdn.jsdelivr.net/gh/seeac/wacx@master/bg_container.png),inset 0 186px 0 0 #02BB9F;}
+body{background:#fff;color:#555555;font-family:Arimo,Arial,Helvetica,Sans-serif;font-size:14px;line-height:1.4;margin:0;padding:0;-webkit-box-shadow:inset 0 146px 0 0 #1b1b1b,inset 0 186px 0 0 #02BB9F;-moz-box-shadow:inset 0 146px 0 0 #1b1b1b,inset 0 186px 0 0 #02BB9F;box-shadow:inset 0 146px 0 0 url(https://cdn.jsdelivr.net/gh/seeac/wacx@master/bg_container.png),inset 0 186px 0 0 #02BB9F;}
 a:link,a:visited{color:#155780;text-decoration:none;outline:none;}
 a:hover{color:#10DCBD;text-decoration:none;outline:none;}
 a img{border-width:0;}
